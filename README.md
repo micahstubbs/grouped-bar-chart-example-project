@@ -5,7 +5,7 @@ an attempt at a minimal example project that uses the [webpack](https://webpack.
 ```
 npm install
 npm start
-open http://localhost:3000
+open http://localhost:3003
 ```
 
 ![grouped-bar-chart-1a](http://i.imgur.com/GH2Lcy0.png)
@@ -24,7 +24,7 @@ The minimal dev environment to enable live-editing React components.
 ```
 npm install
 npm start
-open http://localhost:3000
+open http://localhost:3003
 ```
 
 Now edit `src/App.js`.  
